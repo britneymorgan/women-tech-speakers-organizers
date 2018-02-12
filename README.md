@@ -479,6 +479,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End,
 - Location - Dallas, TX, US
 
+### Organizers
+
+#### ChickTech - ACT-W 
+
+- [@ChickTechorg](https://twitter.com/chicktechorg) [@ACT_WConf](https://twitter.com/ACT_WConf)
+- [ACT-W National Conference](http://www.act-w.org/), Phoenix, Arionza, United States
+- Advancing the Careers of Technical Women
+- Location - Pheonix, Arizona, United States
+
 --
 
 ### Canada
